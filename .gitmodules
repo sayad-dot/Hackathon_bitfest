@@ -1,0 +1,3 @@
+[submodule "task2/tasty-ingredient-connector"]
+	path = task2/tasty-ingredient-connector
+	url = https://github.com/sayad-dot/Hackathon_bitfest.git
